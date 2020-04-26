@@ -51,7 +51,7 @@ public class main {
                 x = element.text();
                 speicher = x.split("ago");
                 x = speicher[1];
-                speicher = x.split("comments");
+                speicher = x.split("•");
                 x = speicher[0];
                 Toolkit.getDefaultToolkit().beep();
                 return x;
@@ -82,7 +82,7 @@ public class main {
                  x = element.text();
                  speicher = x.split("ago");
                  x = speicher[1];
-                 speicher = x.split("comments");
+                 speicher = x.split("•");
                  x = speicher[0];
                 Toolkit.getDefaultToolkit().beep();
                 return x;
@@ -113,7 +113,7 @@ public class main {
                 x = element.text();
                 speicher = x.split("ago");
                 x = speicher[1];
-                speicher = x.split("comments");
+                speicher = x.split("•");
                 x = speicher[0];
                 Toolkit.getDefaultToolkit().beep();
                 return x;
