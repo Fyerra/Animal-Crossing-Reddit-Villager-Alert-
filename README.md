@@ -18,3 +18,4 @@ Zum Programm: Das Programm besteht aus zwei Textfeldern, wobei in das obere der 
 Weitere Hinweise
 
 Das Programm muss jederzeit laufen, um so schnell wie möglich Bescheid zu kriegen. Geprüft werden bei der ersten Überprüfung nicht alle Beiträge, sondern nur die, die beim Betreten des Subreddits bereits geladen sind. Es wird für alle Beiträge Bescheid gegeben, die den Namen beinhalten, also potenziell auch Beiträge, die den Bewohner wünschen und nicht nur Angebote.
+Das Programm ist nicht für den Vollbild Modus optimiert. Es funktioniert, sieht in der Original Größe aber schöner aus.
