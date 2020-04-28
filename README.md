@@ -1,7 +1,7 @@
 # Animal-Crossing-Reddit-Villager-Alert-
 Lies mich!
 
-Was tut dieses Programm
+Was tut dieses Programm?
 
 Es durchsucht ausgewählte Animal Crossing Villager Trading Subreddits nach einem bestimmten Bewohner.
 
