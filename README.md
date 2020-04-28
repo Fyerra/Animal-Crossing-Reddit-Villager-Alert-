@@ -1,6 +1,11 @@
 # Animal-Crossing-Reddit-Villager-Alert-
 Lies mich!
 
+Was tut dieses Programm
+
+Es durchsucht ausgewählte Animal Crossing Villager Trading Subreddits nach einem bestimmten Bewohner.
+
+
 Installation
 
 Wenn du hier angekommen bist, hast du schon fast alles getan, was für die Installation nötig ist. Jetzt musst du nur noch die Datei "AcVillagerFinder2.0.jar" herunterladen über den 'clone or download' button. Dort musst du die Dateien dann als zip herunterladen und anschließend entpacken. Stelle sicher, dass du dich im 'Download' Branch befindest. Siehe oben links über den Dateien. Die Jar ist direkt ausführbar, das einzige, was sie noch benötigt, ist Java, was allerdings auf den meisten Rechnern installiert sein sollte. Hierbei geht es um die 8. Version des Java Runtime Enviroments.
