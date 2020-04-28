@@ -10,8 +10,8 @@ Benutzung
 
 Vorab: Die Benutzung ist relativ selbsterklärend. Das Programm benötigt eine Internetverbindung, um auf die Subreddits zugreifen zu können. Prüfen tut das Programm hierbei folgende drei Subreddits:
 
-r/ACVillager \r\n
-r/ACNHvillagertrade
+r/ACVillager, 
+r/ACNHvillagertrade,
 r/ACNHVillagerGiveaways
 
 Ein Reddit Account ist hierbei erst notwendig, wenn man beschließt, in einem der Subreddits zu kommentieren.
